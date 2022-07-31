@@ -42,7 +42,9 @@ API total Pages
 ###            "name": "Tahsin"
 ###        }
 ###    /auth/ Authenticate
-        Check Above
+###        Check Above
+###    The AccessCompany.py File is Optional
+###    It is used to register comapny
 
 Sample Flask Person Backend API
 Enjoy
