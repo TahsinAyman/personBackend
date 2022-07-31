@@ -7,8 +7,8 @@ using sqlite Database
 You can Authenticate to your api using api token
 one is there by default
 for try
-     POST
-###           {
+    POST
+               {
 ###                 "token": "crasdasdasdadkahsjfbhiawuehfi9hsadilfnawiehfiuasdfh"
 ###            }
 ###      GET
