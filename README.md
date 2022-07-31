@@ -1,4 +1,4 @@
-### Run The app.py File Using Command
+Run The app.py File Using Command
     py app.py
 
 
@@ -7,12 +7,12 @@ using sqlite Database
 You can Authenticate to your api using api token
 one is there by default
 for try
-###     POST
-###           {
-###               "token": "crasdasdasdadkahsjfbhiawuehfi9hsadilfnawiehfiuasdfh"
-###            }
-###      GET
-###           ?token=crasdasdasdadkahsjfbhiawuehfi9hsadilfnawiehfiuasdfh
+        POST
+            {
+                "token": "crasdasdasdadkahsjfbhiawuehfi9hsadilfnawiehfiuasdfh"
+            }
+        GET
+            ?token=crasdasdasdadkahsjfbhiawuehfi9hsadilfnawiehfiuasdfh
 
 And then you will be authenticated and your data will be saved at cookie
 
@@ -42,7 +42,7 @@ API total Pages
                 "name": "Tahsin"
             }
         /auth/ Authenticate
-        Check Above
+            Check Above
 
 Sample Flask Person Backend API
 Enjoy
