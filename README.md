@@ -48,6 +48,12 @@ API total Pages
 ###    If you have mistakenly deleted the database file
 ###    run the models.py file
 
+You Can Configure the host and port at config.json file
+e.g: {
+    "host": "localhost",
+    "port": 8000
+}
+
 Sample Flask Person Backend API
 Enjoy
     By Tahsin Ayman
