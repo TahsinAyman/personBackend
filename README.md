@@ -45,6 +45,8 @@ API total Pages
 ###        Check Above
 ###    The AccessCompany.py File is Optional
 ###    It is used to register comapny
+###    If you have mistakenly deleted the database file
+###    run the models.py file
 
 Sample Flask Person Backend API
 Enjoy
