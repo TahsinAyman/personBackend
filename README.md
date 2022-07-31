@@ -1,5 +1,5 @@
 Run The app.py File Using Command
-    * py app.py
+    py app.py
 
 
 using sqlite Database
