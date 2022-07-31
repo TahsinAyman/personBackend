@@ -17,10 +17,10 @@ for try
 And then you will be authenticated and your data will be saved at cookie
 
 API total Pages
-###    /person/show/[id] GET
+###   - /person/show/[id] GET
 ###        Query using Id
 ###        If dosent specify then all the data
-###    /person/add/ POST
+###   - /person/add/ POST
 ###        GETS JSON must
 ###        e.g: {
 ###            "name": "tahsin",
@@ -28,20 +28,20 @@ API total Pages
 ###        }
 ###        id isn't mandatory
 ###        autoincremented
-###    /person/delete/ DELETE
+###   - /person/delete/ DELETE
 ###        takes a JSON data with id key
 ###        deletes by the id
 ###        e.g: {
 ###            "id": 1
 ###        }
-###    /person/update/[id] PUT
+###   - /person/update/[id] PUT
 ###        id is Mandatory
 ###        and then gets a json data
 ###        replace the data
 ###        e.g: {
 ###            "name": "Tahsin"
 ###        }
-###    /auth/ Authenticate
+###   - /auth/ Authenticate
 ###        Check Above
 ###    The AccessCompany.py File is Optional
 ###    It is used to register comapny
