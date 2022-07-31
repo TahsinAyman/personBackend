@@ -9,7 +9,7 @@ one is there by default
 for try
 ###     POST
 ###           {
-###               "token": "crasdasdasdadkahsjfbhiawuehfi9hsadilfnawiehfiuasdfh"
+###                 "token": "crasdasdasdadkahsjfbhiawuehfi9hsadilfnawiehfiuasdfh"
 ###            }
 ###      GET
 ###           ?token=crasdasdasdadkahsjfbhiawuehfi9hsadilfnawiehfiuasdfh
